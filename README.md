@@ -20,7 +20,7 @@
 - practical coding repogitory[https://github.com/11umbrella11/cod_study.git]
 
 # Now focusing
-- Basic of coding
-- light front-end
+- [x]Basic of coding
+- [ ]light front-end
   
 
