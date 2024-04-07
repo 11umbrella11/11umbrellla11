@@ -1,4 +1,5 @@
 # choi eunjeong(11umbrella11)
+![IMG_1379](https://github.com/11umbrella11/11umbrellla11/assets/160423884/00911fa7-5551-448c-b4e4-246cc0e8deb5)
 
 ## introduction :wave:
 안녕하세요. 저는 개발자가 되고싶은 최은정입니다.
